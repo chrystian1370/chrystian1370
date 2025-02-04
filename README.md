@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Chrystian Alvarenga Amoroso, tenho 33 anos e sou natural de São Paulo. Formado Sistema de Informação pela UNIFRAN. Sou apaixonada por tecnologia e inovações.
+Me chamo Chrystian Alvarenga Amoroso, tenho 33 anos e sou natural de São Paulo. Formado em Sistema de Informação pela UNIFRAN. Sou apaixonada por tecnologia e inovações.
 
 ---
 
