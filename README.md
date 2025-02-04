@@ -161,7 +161,7 @@ Me chamo Chrystian Alvarenga Amoroso, tenho 33 anos e sou natural de São Paulo.
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrystian1370&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrystian1370&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&include_all_commits=true" 
   />
 
 </p>
