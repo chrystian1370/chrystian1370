@@ -1,21 +1,18 @@
-# 👨🏼‍💻 Chrystian Alvarenga Amoroso
+<br clear="both">
 
-**`Desenvolvedora FullStack`**
+<h1 align="left">👨🏼‍💻 Chrystian Alvarenga Amoroso</h1>
 
-Me chamo Chrystian Alvarenga Amoroso, tenho 33 anos e sou natural de São Paulo. Formado em Sistema de Informação pela UNIFRAN. Sou apaixonada por tecnologia e inovações.
+###
 
 <br clear="both">
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrystian1370&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chrystian1370&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h4 align="left">Desenvolvedora FullStack</h4>
 
 ###
 
-<img align="right" height="150" src=""  />
+<br clear="both">
+
+<h2 align="left">Me chamo Chrystian Alvarenga Amoroso, tenho 33 anos e sou natural de São Paulo. Formado em Sistema de Informação pela UNIFRAN. Sou apaixonada por tecnologia e inovações.</h2>
 
 ###
 
@@ -61,6 +58,13 @@ Me chamo Chrystian Alvarenga Amoroso, tenho 33 anos e sou natural de São Paulo.
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chrystian1370&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chrystian1370&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <div align="left">
   <a href="https://www.instagram.com/chrystian.alvarenga/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -78,7 +82,5 @@ Me chamo Chrystian Alvarenga Amoroso, tenho 33 anos e sou natural de São Paulo.
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/chrystian1370/chrystian1370/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
