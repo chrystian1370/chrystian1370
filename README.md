@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h4 align="left">Desenvolvedora FullStack</h4>
+<h4 align="left">Desenvolvedor FullStack</h4>
 
 ###
 
